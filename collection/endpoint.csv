@@ -1,2 +1,2 @@
 endpoint,endpoint-url,parameters,plugin,entry-date,start-date,end-date
-7cb227ed5b2020fc4435730b0bd952a5a3a664fb40902b64572a9c0fcd508276,https://services.arcgis.com/JJzESW51TqeY9uat/arcgis/rest/services/Special_Protection_Areas_England/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson,,,2022-05-21T16:16:36:14Z,,
+44505684375e9b5e6fd46416f565077b99be8f28aa63837bf13a9478fdc0e3b5,https://environment.data.gov.uk/UserDownloads/interactive/8617d39faac1440b987da31f5a75974d39128/NE_SpecialProtectionAreasEngland_GeoJSON_Full.zip,,,2022-05-23T16:16:35:41Z,,
